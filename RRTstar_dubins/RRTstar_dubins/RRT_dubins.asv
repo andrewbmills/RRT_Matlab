@@ -1,0 +1,9 @@
+function [ d, pattern ] = RRT_dubins( z1, z2 )
+% Computes the optimal dubins car path between two nodes.  The nodes have
+% x,y location and orientation.  The function returns the distance of the
+% path 
+
+
+
+end
+
